@@ -1,20 +1,4 @@
-# Unit 2 | Homework Assignment: Automate Your Day Job with Python
-
-## Background
-
-You've made it! It's time to put away the Excel sheet and join the big leagues. Welcome to the world of programming with Python. In this homework assignment, you'll be using the concepts you've learned to complete the required PyBank Python activity, and if you wish to stretch your skills even further, the optional PyRamen Python activity. Both activities present a real-world situation in which your newfound Python skills will come in handy. These activities are far from easy, though, so expect some hard work ahead!
-
-## Before You Begin
-
-1. Create a new GitHub repo called `python-homework`. Then, clone it to your computer.
-
-2. In your local git repository, create a directory for both of the Python activities. Use folder names that correspond to the activities: **PyBank** and **PyRamen**.
-
-3. In each folder you just created, add a new file called `main.ipynb`. Remember that to create this file you will need to use JupyterLab to correctly generate the .ipynb file format. This will be the main notebook to run for each analysis.
-
-4. Push the above changes to GitHub.
-
-## PyBank (Required)
+## PyBank
 
 ![Revenue](Images/revenue-per-lead.jpg)
 
@@ -44,4 +28,4 @@ Your resulting analysis should look similar to the following:
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   ```
 
-Your final script should print the analysis to the terminal and export a text file with the results.
+
